@@ -18,7 +18,7 @@
 [Sammanfattning av kursen](http://www.sm.luth.se/csee/courses/d0009e/lectures/sammanfattning.pdf)
 
 ## Laborationer
-0. 
+0. [Lab 0: Bekanta sig med miljön](https://github.com/darkraven92/D0009E/tree/master/Laborationer/Lab%200-%20Bekanta%20sig%20med%20milj-n)
 1. [Lab 1: Aritmetik och utskrift](https://github.com/darkraven92/D0009E/tree/master/Laborationer/Lab%201-%20Aritmetik%20och%20utskrift)
 2. [Lab 2: Rekursion och iteration]
 3. [Lab 3: Strängar, listor, och "dictionaries]
