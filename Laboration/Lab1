@@ -1,0 +1,75 @@
+ #-*- coding: utf-8 -*-
+
+#Uppgift 1
+#1.1
+antal = int(input("Hur många personer: "))
+print("\n")
+print("#1.1")
+def recept(antal):
+
+    agg = 3/4*antal
+    strosocker = 3/4*antal
+    vaniljpulver = 2/4*antal
+    bakpulver = 2/4*antal
+    vetemjol = 3/4*antal
+    smor = 75/4*antal
+    vatten = 1/4*antal
+
+    print("Dom ingredienser som behövs för",antal,"personer är:")
+    print(int(agg),"st ägg")
+    print(int(strosocker),"dl strösocker")
+    print(int(vaniljpulver),"tsk vaniljsocker")
+    print(int(bakpulver),"tsk bakpulver")
+    print(int(vetemjol),"dl vetemjöl")
+    print(int(smor),"g smör")
+    print(int(vatten),"dl vatten")
+
+recept(antal)
+
+#1.2.1
+print("\n")
+print("#1.2.1")
+def tidblanda(antal):
+    tidb = 10+antal
+    print("Det beräknas ta",tidb,"min för att blanda smeten för",antal,"personer")
+    return tidb
+tidblanda(antal)
+
+#1.2.2
+print("\n")
+print("#1.2.2")
+def tidgradda(antal):
+    tidg = 30+(3*antal)
+    print("Det beräknas ta",tidg,"min att grädda kakan för",antal,"personer")
+    return tidg
+
+tidgradda(antal)
+
+#1.3
+print("\n")
+print("#1.3")
+def sockerkaka(antal):
+    recept(antal)
+    print("\n")
+    tidg = tidgradda(antal)
+    tidb = tidblanda(antal)
+    tidsum = tidg + tidb
+    print("\n")
+    print("Det kommer att ta sammanlagt",tidsum,"min för att baka sockerkakan\n")
+
+sockerkaka(antal)
+
+#1.4
+print("\n")
+print("#1.4")
+sockerkaka(4)
+sockerkaka(7)
+
+#Uppgift 2
+print("\n")
+print("#2")
+def kostnad(P,r,a):
+    k = P+(a+1)*P*r/2
+    print("Den totala kostnaden efter",a,"är är",int(k),"kr")
+
+kostnad(50000,0.03,10)
