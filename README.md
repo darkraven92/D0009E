@@ -17,6 +17,13 @@
 [Ett objektorienterat exempel](http://www.sm.luth.se/csee/courses/d0009e/lectures/objektorienterat_exempel.pdf), [icke-oo-kod](http://www.sm.luth.se/csee/courses/d0009e/lectures/fifoQueue.py), [oo-kod](http://www.sm.luth.se/csee/courses/d0009e/lectures/fifoQueueObj.py) <br />
 [Sammanfattning av kursen](http://www.sm.luth.se/csee/courses/d0009e/lectures/sammanfattning.pdf)
 
+## Laborationer
+0. 
+1. [Lab 1: Aritmetik och utskrift](https://github.com/darkraven92/D0009E/tree/master/Laborationer/Lab%201-%20Aritmetik%20och%20utskrift)
+2. [Lab 2: Rekursion och iteration]
+3. [Lab 3: Strängar, listor, och "dictionaries]
+4. [Lab 4: Filer, alias, undantag...]
+
 ## Litteratur
 Allen Downey, Jeffrey Elkner, Chris Meyers. <br />
 [*How to Think Like a Computer Scientist: Learning with Python*](http://www.greenteapress.com/thinkpython/) <br />
