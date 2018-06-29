@@ -13,14 +13,23 @@
 10. [Filer och undantag](http://www.sm.luth.se/csee/courses/d0009e/lectures/lecture10.pdf)
 11. [Klasser och objekt](http://www.sm.luth.se/csee/courses/d0009e/lectures/lecture11.pdf)
 12. [Klasser och funktioner](http://www.sm.luth.se/csee/courses/d0009e/lectures/lecture12.pdf)
-13. [Klasser och metoder](http://www.sm.luth.se/csee/courses/d0009e/lectures/lecture13.pdf)
+13. [Klasser och metoder](http://www.sm.luth.se/csee/courses/d0009e/lectures/lecture13.pdf) <br />
+[Ett objektorienterat exempel](http://www.sm.luth.se/csee/courses/d0009e/lectures/objektorienterat_exempel.pdf), [icke-oo-kod](http://www.sm.luth.se/csee/courses/d0009e/lectures/fifoQueue.py), [oo-kod](http://www.sm.luth.se/csee/courses/d0009e/lectures/fifoQueueObj.py) <br />
+[Sammanfattning av kursen](http://www.sm.luth.se/csee/courses/d0009e/lectures/sammanfattning.pdf)
 
 ## Litteratur
-Allen Downey, Jeffrey Elkner, Chris Meyers.
-[How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/)
-Green Tea Press, 2002.
-ISBN: 0971677506
+Allen Downey, Jeffrey Elkner, Chris Meyers. <br />
+[*How to Think Like a Computer Scientist: Learning with Python*](http://www.greenteapress.com/thinkpython/) <br />
+Green Tea Press, 2002. <br />
+ISBN: 0971677506 <br />
 
 [Länk till kurslittaraturen(pdf)](http://greenteapress.com/thinkpython/thinkpython.pdf)
+
+## Webb-resurser
+[Om språket Python](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf) <br />
+[Ladda ner och installera Python](https://www.python.org/download/releases/2.7.8/) <br />
+[Python tutorial](https://docs.python.org/2/tutorial/) <br />
+[Python dokumentation](https://docs.python.org/2.7/) <br />
+
 ## Referens
 [Kurssida](http://www.sm.luth.se/csee/courses/d0009e/)
