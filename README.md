@@ -21,6 +21,6 @@ How to Think Like a Computer Scientist: Learning with Python,
 Green Tea Press, 2002.
 ISBN: 0971677506
 
-[Länk till kurslittaraturen](http://greenteapress.com/thinkpython/thinkpython.pdf)
+[Länk till kurslittaraturen(pdf)](http://greenteapress.com/thinkpython/thinkpython.pdf)
 ## Referens
 [Kurssida](http://www.sm.luth.se/csee/courses/d0009e/)
