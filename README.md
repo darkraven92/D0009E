@@ -34,7 +34,7 @@ ISBN: 0971677506 <br />
 
 ## Webb-resurser
 [Om språket Python](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf) <br />
-[Ladda ner och installera Python](https://www.python.org/download/releases/2.7.8/) <br />
+[Ladda ner och installera Python](https://www.python.org/downloads/) <br />
 [Python tutorial](https://docs.python.org/2/tutorial/) <br />
 [Python dokumentation](https://docs.python.org/2.7/) <br />
 
