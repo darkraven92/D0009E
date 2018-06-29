@@ -17,7 +17,7 @@
 
 ## Litteratur
 Allen Downey, Jeffrey Elkner, Chris Meyers.
-How to Think Like a Computer Scientist: Learning with Python,
+[How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/)
 Green Tea Press, 2002.
 ISBN: 0971677506
 
