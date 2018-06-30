@@ -1,4 +1,4 @@
-# Introduktion till programmering - D0009E
+# D0009E - Introduktion till programmering 
 
 ## Föreläsningar
 1. [Programmets väg](http://www.sm.luth.se/csee/courses/d0009e/lectures/lecture01.pdf)
