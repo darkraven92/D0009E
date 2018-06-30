@@ -1,1 +1,26 @@
+#Funktioner
+
+#1 
+def bounce(n):
+    if not n:
+        print(n, end = " ")
+        return
+    print(n, end = " ")
+    bounce(n-1)
+    print(n, end = " ")
+
+bounce(3)
+
+#2
+def bounce2(n):
+    k = n
+    while n > 0:
+        print(n, end = " ")
+        n = n - 1
+    while n <= k:
+        print(n, end = " ")
+        n = n + 1
+bounce2(3)
+
+#3
 
