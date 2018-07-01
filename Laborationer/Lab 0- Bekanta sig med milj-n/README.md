@@ -1,5 +1,5 @@
-## Lab 0
-### En inledande övning (denna lab behöver inte redovisas)
+Lab 0
+En inledande övning (denna lab behöver inte redovisas)
 Det här är den allra första labben i D0009E, och den är tänkt som en introduktion till själva utvecklingsmiljön (IDLE) och till att skriva program. Vi ska inte lösa några problem i denna introduktionslab, utan det kommer först i nästa lab. Den här laben ska inte redovisas och har därför ingen deadline, men det kan vara lämpligt att ta sig igenom den vid första labtillfället.
 
 Uppgift 1
