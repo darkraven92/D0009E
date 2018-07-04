@@ -1,31 +1,23 @@
-def main_dic():
-    word = []
-    description = []
+class Dictionary:
+    lists = []
 
-    while True:
-        print
-        "\n Meny för ordlista \n 1: Sätta in \n 2: Slå upp \n 3: Stäng program \n"
-        val = input('Välj Alternativ:')
-        if val == '1':
-            x = input('Ordet som ska sättas in:')
-            if x in word:
-                print
-                "Ordet finns redan i listan."
-            else:
-                y = input('Beskrinving av ord:')
-                word.append(x)
-                description.append(y)
+    def __init__(self, word, description):
+        self.lists = []
+        self.word = word
+        self.description = description
 
-        elif val == '2':  # Letar upp ordet
-            z = input('Ord som söks:')
-            if z in word:
-                print
-                "Beskrivningen av: ", z, "är", description[:]
-            else:
-                print
-                "Kunde inte hitta ordet:", z
+    def fullDesc(self):
+        return '{} {}'.format(self.word, self.description)
 
-        elif val == '3':
-            break
+    def addNewWord(self):
+        lists = []
+        self.word = lists.append(self.word)
 
-main_dic()
+
+
+
+
+
+
+
+
