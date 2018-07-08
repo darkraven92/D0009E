@@ -1,7 +1,7 @@
-#Ordlsita Tupler
+#Ordlsita tupler
 
 def menu():
-  
+
 
    while True:
 

@@ -1,4 +1,4 @@
-#Ordlista Listor av strängar
+#Ordlista listor
 
 def menu():
    wordliststr = []
