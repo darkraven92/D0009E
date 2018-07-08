@@ -28,7 +28,7 @@ def menu():
            if lookupword in wordliststr:
                print("Description for",lookupword,":",descliststr[wordliststr.index(lookupword)])
            else:
-               print("Word not fund")
+               print("Word not found")
        elif ch == "3":
            print("Exiting program")
            break
