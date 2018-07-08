@@ -1,4 +1,4 @@
-#Uppgift 1 Listor av strängar
+#Ordlista Listor av strängar
 
 def menu():
    wordliststr = []
@@ -35,7 +35,7 @@ def menu():
        else:
            print("Enter a vaild input")
 
-#menu()
+menu()
 
 
 
