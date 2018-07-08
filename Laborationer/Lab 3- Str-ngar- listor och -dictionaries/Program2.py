@@ -1,4 +1,4 @@
-#Ordlsita tupler
+#Ordlista tupler
 
 def menu():
 
