@@ -1,19 +1,29 @@
-
-
 class telefonbok:
 
     def __init__(self):
         self.teledict = {}
-        self.kommandon = {"add":self.add}
+        kommandon_dict = {"add":self.add, "lookup": self.lookup}
 
-    def menu(self):
-        while True:
-            x = input(print("> "))
-            y = x.split()
+    while True:
 
-    def add(self,namn,nummer):
-        pass
+        x = input("> ")
+        y = x.split()
+
+    def add(self, namn, nummer):
+        self.teledict[nummer] = namn
+        print(namn,":",nummer,"är tillagt")
+
+    def lookup(self, namn):
+        for numb, na in self.teledict.items():
+            if namn in na:
+                print(numb)
+            else:
+                print("Namnet hittades inte")
 
 
-if __name__ == "__main__":
-    telefonbok().menu()
+
+
+
+
+
+t = telefonbok()
