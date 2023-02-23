@@ -6,6 +6,7 @@ fråga efter en parameter till tvärsumman och kör sedan tvärsumman med denna 
 fråga efter ett startvärde till newton-raphson och lös sedan f(x)=x^2-1 genom att anropa newton-raphson från lab 2.
 avsluta programmet.
 Efter att en av uppgifterna utförts så ska menyn visas igen (utom för alternativert "avsluta programmet"). När man implementerar en meny är det lämpligt att använda en iterativ metod för att visa menyn. Detta eftersom menyn kan visas godtyckligt många gånger och en rekursiv metod då upptar succesivt mer minne.
+
 Ordlista
 I denna laboration ska vi implementera en enkel ordlista m.h.a. python. Ordlistan ska vara interaktiv och användaren ska kunna lägga till och slå upp ord i ordlistan. Själva ordlistan ska implementeras på tre olika sätt, med tre olika sätt att spara ordlistan. Följande tre olika sätt att lagra en ordlista implementeras:
 Två stycken listor av strängar. Den första listan innehåller ordet vi vill slå upp, och den andra listan innehåller beskrivningen för det ordet, på motsvarande position.
